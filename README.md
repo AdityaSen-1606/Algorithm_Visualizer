@@ -1,16 +1,5 @@
 <h1 align="center">Path Finding Visualizer</h1>
 
-<p align="center">Live at - https://mypathfinder.vercel.app </p>
-<p align="center"> This project is live visualiztion of the famous path finding algorithms. </p>
-<br/>
-
-
-
-
-https://github.com/harshsahu1/mypathfinder/assets/76099605/8669c7ba-14b8-4148-9a60-61c93c827626
-
-
-
 
 
 <h2 align="center">Algorithms Included</h2>
