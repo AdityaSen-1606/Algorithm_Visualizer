@@ -1,6 +1,6 @@
 <h1 align="center">Path Finding Visualizer</h1>
 
-
+https://github.com/AdityaSen-1606/Algorithm_Visualizer/blob/main/video.mov
 
 <h2 align="center">Algorithms Included</h2>
 <li>* Dijkstra</li>
