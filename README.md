@@ -4,10 +4,7 @@
 <p align="center"> This project is live visualiztion of the famous path finding algorithms. </p>
 <br/>
 
-[Watch My Video]
-(https://github.com/AdityaSen-1606/Algorithm_Visualizer/blob/main/video.mov)
-
-
+https://github.com/AdityaSen-1606/Algorithm_Visualizer/assets/76251309/2ac12a83-266a-4ea4-9bd9-7d0c5f51e00c
 
 <h2 align="center">Algorithms Included</h2>
 <li>* Dijkstra</li>
