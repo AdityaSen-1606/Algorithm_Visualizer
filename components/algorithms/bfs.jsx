@@ -1,6 +1,6 @@
 import { rows, cols } from '@/components/constants/constants';
 export default function Bfs(newGrid, startIndex, endIndex) {
-  var queue = [];
+  var queue = []; 
   var sequence = [];
   const m = rows,
     n = cols;
