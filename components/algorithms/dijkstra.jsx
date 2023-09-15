@@ -1,5 +1,5 @@
 import { rows, cols } from '@/components/constants/constants'; 
-
+ 
 export default function Dijkstra(grid, startIndex, endIndex) {
   var m = rows,
     n = cols;
