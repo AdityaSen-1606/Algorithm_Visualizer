@@ -1,4 +1,4 @@
-import { useState, useContext, createContext, useEffect } from 'react';
+import { useState, useContext, createContext, useEffect } from 'react'; 
 import getGrid from '@/components/Grid/getGrid.jsx';
 import { rows, cols } from '@/components/constants/constants';
 
