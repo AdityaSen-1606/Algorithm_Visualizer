@@ -1,6 +1,6 @@
 export default function randomMaze(grid, startNode, finishNode) {
   if (!startNode || !finishNode || startNode === finishNode) {
-    return false;
+    return false; 
   }
   let walls = [];
   for (let row = 0; row < grid.length; row++) {
