@@ -1,6 +1,8 @@
 <h1 align="center">Path Finding Visualizer</h1>
 
-https://github.com/AdityaSen-1606/Algorithm_Visualizer/blob/main/video.mov
+<p align="center">Live at - https://algorithm-visualizer-eosin.vercel.app/</p>
+<p align="center"> This project is live visualiztion of the famous path finding algorithms. </p>
+<br/>
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/AdityaSen-1606/Algorithm_Visualizer/blob/main/video.mov))
 
