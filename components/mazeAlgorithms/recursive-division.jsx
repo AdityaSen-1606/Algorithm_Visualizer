@@ -1,7 +1,7 @@
 let walls;
 export function recursiveDivisionMaze(grid, startNode, finishNode) {
   if (!startNode || !finishNode || startNode === finishNode) {
-    return false;
+    return false; 
   }
   let vertical = range(grid[0].length);
   let horizontal = range(grid.length);
