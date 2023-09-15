@@ -4,7 +4,7 @@
 <p align="center"> This project is live visualiztion of the famous path finding algorithms. </p>
 <br/>
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/AdityaSen-1606/Algorithm_Visualizer/blob/main/video.mov))
+[Link to My Video](https://www.youtube.com/watch?v=https://drive.google.com/file/d/11rko4QmUIJfdYX6VvwGpzfnyCAOegDrY/view?usp=sharing)
 
 
 <h2 align="center">Algorithms Included</h2>
