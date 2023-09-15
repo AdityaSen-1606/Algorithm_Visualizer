@@ -4,7 +4,7 @@
 <p align="center"> This project is live visualiztion of the famous path finding algorithms. </p>
 <br/>
 
-[Link to My Video](https://www.youtube.com/watch?v=https://drive.google.com/file/d/11rko4QmUIJfdYX6VvwGpzfnyCAOegDrY/view?usp=sharing)
+[Watch My Video](https://raw.githubusercontent.com/harshsahu1/mypathfinder/master/assets/videos/my_video.mp4)
 
 
 <h2 align="center">Algorithms Included</h2>
