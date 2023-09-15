@@ -1,6 +1,6 @@
 import { rows, cols } from '@/components/constants/constants';
 export default function Dfs(newGrid, startIndex, endIndex) {
-  var sequence = [];
+  var sequence = []; 
   var i = startIndex[0];
   var j = startIndex[1];
   var a = endIndex[0];
