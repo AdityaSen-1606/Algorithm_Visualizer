@@ -52,8 +52,5 @@ This allows for mulitple paths between the start and end node instead of just a 
 
 ## Made Using
 
-- [NextJs]
 - [ReactJs]
-- [TypeScript]
-- [TailWindCss]
 - [CSS Animations]
